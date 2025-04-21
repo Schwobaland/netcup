@@ -1,4 +1,4 @@
-module github.com/caddy-dns/netcup
+module github.com/Schwobaland/netcup
 
 go 1.24
 
